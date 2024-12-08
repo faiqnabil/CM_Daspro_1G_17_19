@@ -1,6 +1,5 @@
-package Case_Method;
 import java.util.Scanner;
-public class CMKafe_17_19 {
+public class Kafein {
     static String pelanggan[] = new String[50];
     static int noMeja[] = new int[50];
     static int jumlahPesanan = 0;
