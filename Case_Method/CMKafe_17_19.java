@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Kafein {
+public class CMKafe_17_19 {
+    
     static String pelanggan[] = new String[50];
     static int noMeja[] = new int[50];
     static int jumlahPesanan = 0;
